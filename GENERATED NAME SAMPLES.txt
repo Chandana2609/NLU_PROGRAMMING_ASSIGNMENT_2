@@ -1,0 +1,37 @@
+
+
+Generated Names (Attention):
+Numg
+Rwd
+Tnpaf
+Rgad
+Vokdr
+Aprseryt
+Mic
+Fizu
+Truld
+Ubo
+
+Generated Names (BLSTM):
+Kra
+Chadj
+Mraj
+Olpo
+Ean
+Nru
+Gy
+Hwrh
+Boah
+Aonr
+
+Generated Names (RNN):
+Phn
+Geny
+Chvazo
+Kt
+Yiyh
+Nthvshy
+Plshv
+Zsd
+Nsahy
+Hceav
