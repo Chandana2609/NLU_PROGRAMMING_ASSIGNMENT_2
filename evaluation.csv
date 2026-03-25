@@ -1,0 +1,4 @@
+Model,Novelty,Diversity
+RNN,1.0,1.0
+BLSTM,0.98,1.0
+Attention,0.98,1.0
